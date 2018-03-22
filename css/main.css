@@ -5,6 +5,7 @@ html {
 
 section {
   background-color: #fff;
+  border-color: #000;
 }
 
 @media only screen and (min-width: 60em) {
